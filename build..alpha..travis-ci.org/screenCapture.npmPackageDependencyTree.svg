@@ -78,7 +78,7 @@
 <tspan x="10" y="1210">  │ │ │ │ │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="1226">  │ │ │ │ ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="1242">  │ │ │ │ ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="1258">  │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="1258">  │ │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="1274">  │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="1290">  │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="1306">  │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -399,7 +399,7 @@
 <tspan x="10" y="6346">  │ │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="6362">  │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="6378">  │ │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="6394">  │ │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="6394">  │ │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="6410">  │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="6426">  │ │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="6442">  │ │ │   ├── jsbn@0.1.1 </tspan>
@@ -425,7 +425,7 @@
 <tspan x="10" y="6762">  │       └── camelcase@3.0.0 </tspan>
 <tspan x="10" y="6778">  ├── object-assign@4.1.1 </tspan>
 <tspan x="10" y="6794">  ├─┬ path@0.12.7 </tspan>
-<tspan x="10" y="6810">  │ ├── process@0.11.9 </tspan>
+<tspan x="10" y="6810">  │ ├── process@0.11.10 </tspan>
 <tspan x="10" y="6826">  │ └─┬ util@0.10.3 </tspan>
 <tspan x="10" y="6842">  │   └── inherits@2.0.1 </tspan>
 <tspan x="10" y="6858">  ├─┬ svgo@0.5.6 </tspan>
